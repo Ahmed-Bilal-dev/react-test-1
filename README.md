@@ -1,3 +1,7 @@
+Figma File
+
+https://www.figma.com/design/yWPzJVyrsUVWBxsoEe4XSO/profile-card-(Community)?node-id=1-210&node-type=frame&t=oim3tGy2iEnNJmMt-0
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
